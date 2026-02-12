@@ -44,3 +44,7 @@ This project was developed over a **two-week period** as a **final project for C
 1. Clone this repository:
    ```bash
    git clone https://github.com/ebishop898/Arduino-Automated-Plant-Watering-System-
+2. Open the .ino file in the Arduino IDE.
+3. Connect your Arduino and hardware components.
+4. Upload the code to the Arduino.
+5. Monitor the system and adjust moisture thresholds as needed.
