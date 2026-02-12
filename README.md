@@ -6,6 +6,8 @@ An automated plant watering system built using **Arduino**, **soil moisture sens
 
 This project was developed over a **two-week period** as a **final project for CSC 235: Physical Computing**, with a focus on integrating hardware, sensors, and control logic into a reliable physical system.
 
+To see photos and videos of this project in action, please visit the link: [here](https://www.behance.net/gallery/196953011/The-waterer)
+
 ## Features
 - Real-time soil moisture monitoring
 - Automatic activation of water pump when soil is dry
